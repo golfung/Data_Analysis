@@ -11,7 +11,6 @@ Yulu is India’s leading micro-mobility service provider, which offers unique v
 Yulu has recently suffered considerable dips in its revenues. They have contracted a consulting company to understand the factors on which the demand for these shared electric cycles depends. Specifically, they want to understand the factors affecting the demand for these shared electric cycles in the Indian market.
 
 ## 1. Ask 
-[Click Here](https://github.com/golfung/Data_Analysis/blob/main/What_affect_to_Yulu%E2%80%99s_revenues/business-case-what-affect-to-yulu-s-revenues.ipynb)
 
 Here are exemple question
 
@@ -20,22 +19,54 @@ Here are exemple question
 - How well those variables describe the electric cycle demands?
 
 ## 2. Prepare 
-[Click Here](https://github.com/golfung/Data_Analysis/blob/main/What_affect_to_Yulu%E2%80%99s_revenues/business-case-what-affect-to-yulu-s-revenues.ipynb)
+
+- Install package, Load library, Read dataset
+
 ## 3. Process 
-[Click Here](https://github.com/golfung/Data_Analysis/blob/main/What_affect_to_Yulu%E2%80%99s_revenues/business-case-what-affect-to-yulu-s-revenues.ipynb)
+
+- Check NA data, Change to date time format, etc..
+
 ## 4. Analysis 
-[Click Here](https://github.com/golfung/Data_Analysis/blob/main/What_affect_to_Yulu%E2%80%99s_revenues/business-case-what-affect-to-yulu-s-revenues.ipynb)
-## 5. Hypothesis testing 
-[Click Here](https://github.com/golfung/Data_Analysis/blob/main/What_affect_to_Yulu%E2%80%99s_revenues/business-case-what-affect-to-yulu-s-revenues.ipynb)
-## 6. Conclusion 
-[Click Here](https://github.com/golfung/Data_Analysis/blob/main/What_affect_to_Yulu%E2%80%99s_revenues/business-case-what-affect-to-yulu-s-revenues.ipynb)
 
-
+- Find correlation with the demand for shared electric cycles
+    - season	0.16
+    - holiday	-0.01
+    - workingday	0.01
+    - weather	-0.13
+    - temp	0.39
+    - atemp	0.39
+    - humidity	-0.32
+    - windspeed	0.10
+    - time	0.40
+ 
+ Correlation of 0.3 or higher is often considered moderately strong. So `temp`, `atemp` ,`humidity` and `time` parameter are moderately correlation to electric cycles depends.
+    
 ![__results___18_3](https://user-images.githubusercontent.com/77894515/232005237-5e610645-b196-465d-af95-483e000610e8.png)
+
+- Most demand in June, July, August and September.
+
+## 5. Hypothesis testing 
+
+#### Has Working Day effect on number of electric cycles rented?
+
+- Define hypothesis
+  - H0: There is no significant difference in the number of electric cycles rented on working days and non-working days.
+  - Ha: There is a significant difference in the number of electric cycles rented on working days and non-working days.
+  
+- Prepare data
+  - Set workday and no workday data
+  
+- Statistical test
+  - Perform Welch's t-test = 0.2164
+  
+- Conclusion
+  - We can conclude that the means of electric cycles rented on working day and no working day are **not significant difference**.
+    
+## 6. Conclusion 
 
 Here is my conclusion.
 
-- Most relative parameter to cycle demand are time , temp , feeling temp and humunity.
+- Most relative parameter to cycle demand are `time` , `temp` , `feeling temp` and `humunity`.
 - Most demand in evening time (16PM-19PM).
 - Most temperature cycle demand are 28.70, 26.24 and 29.52 celsius.
 - Most feeling temperature cycle demand are 31.06 , 32.57 and 33.33 celsius.
