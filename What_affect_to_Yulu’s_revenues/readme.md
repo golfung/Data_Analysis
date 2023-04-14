@@ -10,18 +10,18 @@ Yulu is India’s leading micro-mobility service provider, which offers unique v
 
 Yulu has recently suffered considerable dips in its revenues. They have contracted a consulting company to understand the factors on which the demand for these shared electric cycles depends. Specifically, they want to understand the factors affecting the demand for these shared electric cycles in the Indian market.
 
-## 1. Ask
+## 1. Ask [Click Here](https://github.com/golfung/Data_Analysis/blob/main/What_affect_to_Yulu%E2%80%99s_revenues/business-case-what-affect-to-yulu-s-revenues.ipynb)
 Here are exemple question
 
 - Which variables are significant in predicting the demand for shared electric cycles in the Indian market?
 
 - How well those variables describe the electric cycle demands?
 
-## 2. Prepare
-## 3. Process
-## 4. Analysis
-## 5. Hypothesis testing
-## 6. Conclusion
+## 2. Prepare [Click Here](https://github.com/golfung/Data_Analysis/blob/main/What_affect_to_Yulu%E2%80%99s_revenues/business-case-what-affect-to-yulu-s-revenues.ipynb)
+## 3. Process [Click Here](https://github.com/golfung/Data_Analysis/blob/main/What_affect_to_Yulu%E2%80%99s_revenues/business-case-what-affect-to-yulu-s-revenues.ipynb)
+## 4. Analysis [Click Here](https://github.com/golfung/Data_Analysis/blob/main/What_affect_to_Yulu%E2%80%99s_revenues/business-case-what-affect-to-yulu-s-revenues.ipynb)
+## 5. Hypothesis testing [Click Here](https://github.com/golfung/Data_Analysis/blob/main/What_affect_to_Yulu%E2%80%99s_revenues/business-case-what-affect-to-yulu-s-revenues.ipynb)
+## 6. Conclusion [Click Here](https://github.com/golfung/Data_Analysis/blob/main/What_affect_to_Yulu%E2%80%99s_revenues/business-case-what-affect-to-yulu-s-revenues.ipynb)
 
 
 ![__results___18_3](https://user-images.githubusercontent.com/77894515/232005237-5e610645-b196-465d-af95-483e000610e8.png)
