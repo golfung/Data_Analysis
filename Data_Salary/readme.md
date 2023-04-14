@@ -1,6 +1,6 @@
 # Data Analyst, Data Scientist and Data Engineer Salaries
 
-This project about Dashborad with show Data Analyst, Data Scientist and Data Engineer Salaries around the world during paid in 2020-2022.
+This project about Dashboard with show Data Analyst, Data Scientist and Data Engineer Salaries around the world during paid in 2020-2022.
 
 I use **Google sheet** for arrange data and **Tableau public** for dashboard creating
 
