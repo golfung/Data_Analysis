@@ -11,7 +11,7 @@ Yulu is India’s leading micro-mobility service provider, which offers unique v
 Yulu has recently suffered considerable dips in its revenues. They have contracted a consulting company to understand the factors on which the demand for these shared electric cycles depends. Specifically, they want to understand the factors affecting the demand for these shared electric cycles in the Indian market.
 
 ## 1. Ask [Click Here](https://github.com/golfung/Data_Analysis/blob/main/What_affect_to_Yulu%E2%80%99s_revenues/business-case-what-affect-to-yulu-s-revenues.ipynb)
-Here are exemple question
+Here are exemple question)
 
 - Which variables are significant in predicting the demand for shared electric cycles in the Indian market?
 
