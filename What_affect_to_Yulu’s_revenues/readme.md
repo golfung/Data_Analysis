@@ -17,7 +17,7 @@ Here are exemple question)
 
 - How well those variables describe the electric cycle demands?
 
-## 2. Prepare [Click Here](https://github.com/golfung/Data_Analysis/blob/main/What_affect_to_Yulu%E2%80%99s_revenues/business-case-what-affect-to-yulu-s-revenues.ipynb)
+## 2. Prepare [Click Here](https://github.com/golfung/Data_Analysis/blob/main/What_affect_to_Yulu%E2%80%99s_revenues/business-case-what-affect-to-yulu-s-revenues.ipynb##Ask)
 ## 3. Process [Click Here](https://github.com/golfung/Data_Analysis/blob/main/What_affect_to_Yulu%E2%80%99s_revenues/business-case-what-affect-to-yulu-s-revenues.ipynb)
 ## 4. Analysis [Click Here](https://github.com/golfung/Data_Analysis/blob/main/What_affect_to_Yulu%E2%80%99s_revenues/business-case-what-affect-to-yulu-s-revenues.ipynb)
 ## 5. Hypothesis testing [Click Here](https://github.com/golfung/Data_Analysis/blob/main/What_affect_to_Yulu%E2%80%99s_revenues/business-case-what-affect-to-yulu-s-revenues.ipynb)
