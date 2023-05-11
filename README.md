@@ -4,6 +4,15 @@ This is a **Data analytics** project of my interest.
 
 ## Project lists
 
+![1_xR4m0oOKz_jRgQU4Oge53g](https://github.com/golfung/Data_Analysis/assets/77894515/19c8589a-624a-4955-9f88-04f5fab6c98a)
+## [Stock data analysis (Part 1)](https://github.com/golfung/Investment/tree/main/Stock_data_analysis_part_1):fire::fire:Recommend
+- This is a project that a finance job interviewer asked me to do. I will explore the datasets to find interesting insights for investment purposes.
+- In the first part, I will analyze the datasets to develop trading strategy.
+- I found *the percentage change of today's closing price from today's morning opening price* are correlate with *the percentage change of afternoon opening price from today's morning opening price*.
+- So I got strategy **"Buy Afternoon opening price (ATO2), Sell today closing price (ATC)"**
+- Tool : Python
+- Skill : Data analysis, Data visualization, Trading ideas
+
 ![Buying-a-Condo-in-Bangkok-The-Ultimate-Guide-1080x675](https://github.com/golfung/Data_Analysis/assets/77894515/32ebd9da-471a-40ee-a88d-ab6aafefdca7)
 ## [Bangkok Condo for sale](https://github.com/golfung/Investment/tree/main/Bangkok_Condo_for_sale):fire::fire:Recommend
 - It's a project about solving the problem of selling my brother's condo. And find opportunities to invest in condos by comparing prices from real estate web sites.
@@ -17,15 +26,6 @@ This is a **Data analytics** project of my interest.
 - The customer side will incoming the most on Wednesday, average to over 2000 case. We can consider adding extra staff on Wednesdays.
 - Tool : Google Sheet, Python, Tableau public
 - Skill : Data Analytic, Pivot Table, Visualization, Hypothesis testing, Dashboard, Presentation
-
-![1_xR4m0oOKz_jRgQU4Oge53g](https://github.com/golfung/Data_Analysis/assets/77894515/19c8589a-624a-4955-9f88-04f5fab6c98a)
-## [Stock data analysis (Part 1)](https://github.com/golfung/Investment/tree/main/Stock_data_analysis_part_1):fire::fire:Recommend
-- This is a project that a finance job interviewer asked me to do. I will explore the datasets to find interesting insights for investment purposes.
-- In the first part, I will analyze the datasets to develop trading strategy.
-- I found *the percentage change of today's closing price from today's morning opening price* are correlate with *the percentage change of afternoon opening price from today's morning opening price*.
-- So I got strategy **"Buy Afternoon opening price (ATO2), Sell today closing price (ATC)"**
-- Tool : Python
-- Skill : Data analysis, Data visualization, Trading ideas
 
 ![Affect to Asset](https://github.com/golfung/Data_Analysis/assets/77894515/74a5e234-3fdf-4696-a6c6-27c9765c2372)
 ## [Major Event affect to Asset](https://github.com/golfung/Investment/tree/main/Major_Event_affect_to_Asset):fire::fire:Recommend
