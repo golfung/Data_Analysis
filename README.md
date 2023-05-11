@@ -4,8 +4,7 @@ This is a **Data analytics** project of my interest.
 
 ## Project lists
 
-[![Buying-a-Condo-in-Bangkok-The-Ultimate-Guide-1080x675](https://github.com/golfung/Data_Analysis/assets/77894515/32ebd9da-471a-40ee-a88d-ab6aafefdca7)](https://github.com/golfung/Investment/tree/main/Bangkok_Condo_for_sale)
-
+![Buying-a-Condo-in-Bangkok-The-Ultimate-Guide-1080x675](https://github.com/golfung/Data_Analysis/assets/77894515/32ebd9da-471a-40ee-a88d-ab6aafefdca7)
 ## [Bangkok Condo for sale](https://github.com/golfung/Investment/tree/main/Bangkok_Condo_for_sale):fire::fire:Recommend
 - It's a project about solving the problem of selling my brother's condo. And find opportunities to invest in condos by comparing prices from real estate web sites.
 - The market price of my brother’s condo room is 3,130,330 THB, which is information that helps to decide sale price again for my brother, for example, if he want to sell faster, maybe consider a 10%, 20% or 30% reduction from initial price. 
@@ -23,6 +22,8 @@ This is a **Data analytics** project of my interest.
 ## [Stock data analysis (Part 1)](https://github.com/golfung/Investment/tree/main/Stock_data_analysis_part_1):fire::fire:Recommend
 - This is a project that a finance job interviewer asked me to do. I will explore the datasets to find interesting insights for investment purposes.
 - In the first part, I will analyze the datasets to develop trading strategy.
+- I found *the percentage change of today's closing price from today's morning opening price* are correlate with *the percentage change of afternoon opening price from today's morning opening price*.
+- So I got strategy **"Buy Afternoon opening price (ATO2), Sell today closing price (ATC)"**
 - Tool : Python
 - Skill : Data analysis, Data visualization, Trading ideas
 
@@ -41,6 +42,6 @@ This is a **Data analytics** project of my interest.
 ![305409698_1117410452196314_5352631464725865372_n](https://github.com/golfung/Data_Analysis/assets/77894515/470c5468-6d77-406b-98f1-5117cb0a5f2d)
 ## [Business Case: What affect to Yulu's revenues](https://github.com/golfung/Data_Analysis/tree/main/What_affect_to_Yulu%E2%80%99s_revenues)
 - I'm interested in trying statistics to solve real-world problems. So I'm going to try to solve why the company's revenue is declining and how to improve it.
+- The number of cycles rented is significant different across seasons by highest rented in Rainy season
 - Tool : R and SQL programming
 - Skill : Data Analytic, Visualization, Hypothesis testing
-
